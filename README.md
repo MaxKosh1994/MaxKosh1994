@@ -4,6 +4,9 @@
 <div style="display: flex; align-items: center; gap: 20px;">
   <h2>Fullstack developer из 🇷🇺</h2>
   <img src="https://user-images.githubusercontent.com/74038190/216656952-f8beff5b-935b-4157-a199-5c504b36a810.gif" width="160" />
+<img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="160" />
+<img src="https://user-images.githubusercontent.com/74038190/216649443-702212b5-2704-4b2c-8ab0-38bf536a0d41.gif" width="160" />
+<img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="160" />
 </div>
 
 ## Languages: <br />
@@ -52,23 +55,13 @@
 
 ## 🛠️ My Projects:
 
-<ul>
-  <li>
-    <strong>Flowmapp:</strong>  Визуальная платформа для планирования и разработки веб-дизайна.<br /><a href="https://www.flowmapp.com/">Flowmapp.com</a><br /><a href="https://www.producthunt.com/products/flowmapp">Product hunt - Flowmapp</a>
-  </li>
-  <li>
-    <strong>Vuse:</strong> Продающий сайт для вейп-бренда. <a href="https://www.vuse.ru/">Vuse</a>
-  </li>
-  <li>
-    <strong>Санек зовет:</strong> Мобильное веб-приложение для поиска друзей.<br /><a href="https://sanek.io/">Лэндинг</a><br /><a href="https://app.sanek.io/">App</a>
-  </li>
-    <li>
-    <strong>Weams:</strong> Сервис для создания и поиска спортивных мероприятий и комьюнити.<br /><a href="https://weams.ru/">Лэндинг</a><br /><a href="https://apps.apple.com/ru/app/weams-%D0%BE%D0%B1%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D1%8F%D0%B5%D0%BC-%D1%81%D0%BF%D0%BE%D1%80%D1%82%D1%81%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2/id6739068709">App</a>
-  </li>
-      <li>
-    <strong>Cape-n-Coat:</strong> Сape&Coat — бренд верхней одежды .<a href="https://cape-n-coat.ru/">Cape-n-Coat</a>
-  </li>
-</ul>
+| Проект          | Описание                                                        | Ссылки                                                                                                                                                                                                                        |
+| --------------- | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Flowmapp**    | Визуальная платформа для планирования и разработки веб-дизайна  | [Сайт](https://www.flowmapp.com/)<br>[Product Hunt](https://www.producthunt.com/products/flowmapp)                                                                                                                            |
+| **Vuse**        | Продающий сайт для вейп-бренда                                  | [Сайт](https://www.vuse.ru/)                                                                                                                                                                                                  |
+| **Санек зовет** | Мобильное веб-приложение для поиска друзей                      | [Лэндинг](https://sanek.io/)<br>[Приложение](https://app.sanek.io/)                                                                                                                                                           |
+| **Weams**       | Сервис для создания и поиска спортивных мероприятий и комьюнити | [Лэндинг](https://weams.ru/)<br>[App Store](https://apps.apple.com/ru/app/weams-%D0%BE%D0%B1%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D1%8F%D0%B5%D0%BC-%D1%81%D0%BF%D0%BE%D1%80%D1%82%D1%81%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2/id6739068709) |
+| **Cape-n-Coat** | Cape&Coat — бренд верхней одежды                                | [Сайт](https://cape-n-coat.ru/)                                                                                                                                                                                               |
 
 # 📊 GitHub Stats:
 
