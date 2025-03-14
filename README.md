@@ -1,8 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="500">
 <br><br>
 
-<img src="https://raw.githubusercontent.com/MaxKosh1994/MaxKosh1994/output/snake.svg" alt="Snake animation" />
-
 <div style="display: flex; align-items: center; gap: 20px;">
   <h2>Fullstack developer из 🇷🇺</h2>
   <img src="https://user-images.githubusercontent.com/74038190/216656952-f8beff5b-935b-4157-a199-5c504b36a810.gif" width="160" />
