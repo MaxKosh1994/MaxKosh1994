@@ -2,7 +2,7 @@
 <br><br>
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <h2>Fullstack developer из 🇷🇺</h2>
+  <h2>Fullstack developer from St.Petersburg 🇷🇺</h2>
   <img src="https://user-images.githubusercontent.com/74038190/216656952-f8beff5b-935b-4157-a199-5c504b36a810.gif" width="160" />
 <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="160" />
 <img src="https://user-images.githubusercontent.com/74038190/216649443-702212b5-2704-4b2c-8ab0-38bf536a0d41.gif" width="160" />
